@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22fa92996b125690",
+        "id": "a3fcf753d9fb0e54",
         "type": "tabs",
         "children": [
           {
-            "id": "39111858e6237ef5",
+            "id": "67e3d114affbb6b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ts-never.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd3d9cc8fed12f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ts-enums.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17086891cbb4e2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ts-config.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9245a25f2526dfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ts-enums.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,21 +154,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39111858e6237ef5",
+  "active": "67e3d114affbb6b8",
   "lastOpenFiles": [
+    "ts-assertion-function.md",
+    "ts-types-vs-interfaces.md",
+    "ts-config.md",
+    "ts-dot-ts-files.md",
+    "ts-structural-type-system.md",
+    "ts-never.md",
     "ts-get-union-type-of-all-array-values.md",
     "ts-enums.md",
     "Matt Pocock.md",
     "ts-turn-modules-into-types.md",
     "ts-const-assertion.md",
-    "ts-config.md",
-    "ts-assertion-function.md",
-    "ts-never.md",
     "The Nuts and Bolts of OAuth 2.0.md",
     "Bibliography.md",
     "ts-nominal-type-system.md",
     "ts.md",
-    "ts-structural-type-system.md",
     "Readme.md",
     "oauth-access-token-validation.md",
     "oauth-access-token-lifetime-consideration.md",
@@ -215,8 +181,6 @@
     "mobile-open-browser-in-app.md",
     "jwt.md",
     "http-signature.md",
-    "http-request.md",
-    "http-header-hsts.md",
-    "oauth-json-web-key-sets.md"
+    "http-request.md"
   ]
 }
