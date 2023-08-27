@@ -24,14 +24,14 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 | #source  | Books, YouTube videos, articles, and courses from which I gained this knowledge.                              |
 
 ## Topics
-| Topic      | Tags    | Filenames  | Description                                |
-|------------|---------|------------|--------------------------------------------|
-| OAuth      | oauth   | oauth-*    | Secure authorization protocol.             |
-| Http       | http    | http-*     | Protocol for data communication on the web.|
-| Nginx      | nginx   | nginx-*    | Web server and reverse proxy server.       |
-| TLS        | tls     | tls-*      | Encryption and security for data transfer. |
-| Typescript | ts      | ts-*       | Superset of JavaScript with static typing. |
-| Node.js    | nodejs  | nodejs-*   | JavaScript runtime for server-side apps.   |
+| Topic      | Tags           | Filenames   | Description                                |
+|------------|----------------|-------------|--------------------------------------------|
+| OAuth      | oauth          | oauth-*     | Secure authorization protocol.             |
+| Http       | http           | http-*      | Protocol for data communication on the web.|
+| Nginx      | nginx          | nginx-*     | Web server and reverse proxy server.       |
+| TLS        | tls            | tls-*       | Encryption and security for data transfer. |
+| Typescript | ts             | ts-*        | Superset of JavaScript with static typing. |
+| Node.js    | nodejs, libuv  | nodejs-*    | JavaScript runtime for server-side apps.   |
 
 ## Work in progress
 I'm actively working on transferring my existing knowledge to the Zettelkasten approach. I've shifted to creating notes solely within the Zettelkasten system.
