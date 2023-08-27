@@ -17,13 +17,13 @@ If you are interested in learning more about the zettelkasten method and how to 
 
 In my system, I name my notes with a topic prefix, and then add tags to each note. The tags can be specific to the topic of the note, such as #docker, or they can be more general, such as #issue. I find this system to be helpful for quickly finding the information I need.
 
-# General tags
+## General tags
 | Tag      | Description                                                                                                   |
 |----------|---------------------------------------------------------------------------------------------------------------|
 | #issue   | A note that explains how to resolve or avoid a particular issue, or reveals the circumstances when it occurs. |
 | #source  | Books, YouTube videos, articles, and courses from which I gained this knowledge.                              |
 
-# Topics
+## Topics
 | Topic      | Tags    | Filenames  | Description                                |
 |------------|---------|------------|--------------------------------------------|
 | OAuth      | oauth   | oauth-*    | Secure authorization protocol.             |
@@ -33,10 +33,10 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 | Typescript | ts      | ts-*       | Superset of JavaScript with static typing. |
 | Node.js    | nodejs  | nodejs-*   | JavaScript runtime for server-side apps.   |
 
-# Work in progress
+## Work in progress
 I'm actively working on transferring my existing knowledge to the Zettelkasten approach. I've shifted to creating notes solely within the Zettelkasten system.
 
-# 🌟 Share Your Insights – Let's Connect!
+## 🌟 Share Your Insights – Let's Connect!
 
 Hello fellow learners,
 
