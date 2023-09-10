@@ -1,6 +1,7 @@
 ---
 tags:
   - architecture
+  - solid
 ---
 Single Responsibility Principe(SRP) is one of [[arch-solid|SOLID]] principles.
 

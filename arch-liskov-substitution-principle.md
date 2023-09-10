@@ -1,6 +1,7 @@
 ---
 tags:
   - architecture
+  - solid
 ---
 Liskov Substitution Principle(LSP) is a [[arch-solid|SOLID]] principle. 
 

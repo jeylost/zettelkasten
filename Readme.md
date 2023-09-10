@@ -20,9 +20,9 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 ## General tags
 | Tag      | Description                                                                                                   |
 |----------|---------------------------------------------------------------------------------------------------------------|
-| #issue   | A note that explains how to resolve or avoid a particular issue, or reveals the circumstances when it occurs. |
-| #source  | Books, YouTube videos, articles, and courses from which I gained this knowledge.                              |
-
+| #issue  | A note that explains how to resolve or avoid a particular issue, or reveals the circumstances when it occurs. |
+| #source | Books, YouTube videos, articles, and courses from which I gained this knowledge.                              |
+| #tbd    | A knowledge doesn't contain an explanation due to its simplicity or it's going to be defined later.           |
 ## Topics
 | Topic      | Tags                        | Filenames    | Description                                |
 |------------|-----------------------------|--------------|--------------------------------------------|

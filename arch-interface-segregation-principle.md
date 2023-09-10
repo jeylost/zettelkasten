@@ -1,6 +1,7 @@
 ---
 tags:
   - architecture
+  - solid
 ---
 Interface Segregation Principle(ISP) is a [[arch-solid|SOLID]] principle.
 

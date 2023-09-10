@@ -1,6 +1,7 @@
 ---
 tags:
   - architecture
+  - solid
 ---
 Dependency Inversion Principle(DIP) is a [[arch-solid|SOLID]] principle.
 

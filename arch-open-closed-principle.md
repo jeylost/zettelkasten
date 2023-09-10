@@ -1,6 +1,7 @@
 ---
 tags:
   - architecture
+  - solid
 ---
 Open/Closed principle(OCP) is a [[arch-solid|SOLID]] principle.
 

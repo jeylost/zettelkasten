@@ -4,167 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3fcf753d9fb0e54",
+        "id": "697f5d4ef0274c85",
         "type": "tabs",
         "children": [
           {
-            "id": "67e3d114affbb6b8",
+            "id": "9efbade930908c16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Readme.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9388ddcbdda8f7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodejs-code-execution-isolation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b26cb53c6b7825f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "http-signature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c75efa2c45c64eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodejs-callback-hell-does-not-exist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fa00f1899b32443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node-js-non-blocking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "007c9bde92dce793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodejs-import-internal-node-modules-arrangement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "289049ef5bf003b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ts-types-vs-interfaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22672a028b7ce270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch-solid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18814c61829374e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch-solid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89768a9059f6f134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch-interface-segregation-principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc046c6a112df7a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch-single-responsibility-principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2682c2f9c79bf4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch-open-closed-principle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dbd5f3d9b24a360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch-liskov-substitution-principle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "prin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-solid.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-solid.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-solid.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -286,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,17 +153,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18814c61829374e1",
+  "active": "9efbade930908c16",
   "lastOpenFiles": [
+    "tls-termination.md",
+    "TBD.md",
+    "tls.md",
+    "http-request.md",
+    "http-header-hsts.md",
+    "Bibliography.md",
+    "arch-solid.md",
     "arch-single-responsibility-principle.md",
     "arch-open-closed-principle.md",
     "arch-liskov-substitution-principle.md",
     "arch-interface-segregation-principle.md",
     "arch-dependency-inversion-principle.md",
-    "Readme.md",
-    "arch-solid.md",
-    "[arch-liskov-substitution.md",
+    "arch-grasp.md",
+    "node-js-non-blocking.md",
+    "nodejs-import-internal-node-modules-arrangement.md",
     "ts-types-vs-interfaces.md",
+    "Readme.md",
+    "[arch-liskov-substitution.md",
     "ts-turn-modules-into-types.md",
     "ts-structural-type-system.md",
     "ts-nominal-type-system.md",
@@ -317,16 +180,7 @@
     "ts-const-assertion.md",
     "ts-assertion-function.md",
     "nodejs-top-level-await.md",
-    "nodejs-import-internal-node-modules-arrangement.md",
-    "node-js-non-blocking.md",
     "nodejs-callback-hell-does-not-exist.md",
-    "http-signature.md",
-    "nodejs-code-execution-isolation.md",
-    "test.md",
-    "ts-config.md",
-    "nodejs-why-nodejs.md",
-    "os-cpu-change-context.md",
-    "nodejs-libuv-thread-pool.md",
     "Untitled.canvas"
   ]
 }

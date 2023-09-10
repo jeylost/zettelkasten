@@ -1,6 +1,7 @@
 ---
 tags:
   - architecture
+  - solid
 ---
 SOLID stands for 5 principles:
 - S - [[arch-single-responsibility-principle|Single Responsibility Principle]]
