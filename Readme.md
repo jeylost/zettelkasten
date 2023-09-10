@@ -33,7 +33,7 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 | Typescript | ts                          | ts-*         | Superset of JavaScript with static typing. |
 | Node.js    | nodejs, libuv, eventloop, package_manager   | nodejs-*     | JavaScript runtime for server-side apps.   |
 | OS         | os, cpu, kernel             | os-*         | Operating Systems, CPU, RAM, etc.          |
-
+| Architecture | architecture | arch-* | Design and structure of systems. |
 ## Work in progress
 I'm actively working on transferring my existing knowledge to the Zettelkasten approach. I've shifted to creating notes solely within the Zettelkasten system.
 
