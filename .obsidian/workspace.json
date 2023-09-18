@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-grasp-high-cohesion.md",
+                "file": "arch-grasp-polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-grasp-high-cohesion.md",
+                "file": "arch-grasp-polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-grasp-high-cohesion.md",
+                "file": "arch-grasp-polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-grasp-high-cohesion.md"
+                "file": "arch-grasp-polymorphism.md"
+              }
+            }
+          },
+          {
+            "id": "2e1702c67614759f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -154,24 +165,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4944064c3fbbcafb",
+  "active": "663cd6f07aa8e596",
   "lastOpenFiles": [
     "arch-grasp-low-coupling.md",
-    "arch-grasp.md",
+    "arch-grasp-protected-variations.md",
+    "arch-grasp-polymorphism.md",
+    "arch-grasp-controller.md",
+    "arch-grasp-creator.md",
+    "arch-grasp-high-cohesion.md",
+    "arch-grasp-indirection.md",
+    "arch-grasp-information-expert.md",
+    "arch-grasp-pure-fabrication.md",
     "arch-solid.md",
+    "arch-grasp.md",
     "arch-solid-dependency-inversion-principle.md",
     "arch-solid-interface-segregation-principle.md",
     "arch-solid-liskov-substitution-principle.md",
     "arch-solid-open-closed-principle.md",
     "arch-solid-single-responsibility-principle.md",
-    "arch-grasp-protected-variations.md",
-    "arch-grasp-polymorphism.md",
-    "arch-grasp-information-expert.md",
-    "arch-grasp-indirection.md",
-    "arch-grasp-high-cohesion.md",
-    "arch-grasp-creator.md",
-    "arch-grasp-controller.md",
-    "arch-grasp-pure-fabrication.md",
     "Readme.md",
     "tls-termination.md",
     "TBD.md",

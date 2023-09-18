@@ -3,7 +3,7 @@ tags:
   - architecture
   - grasp
 ---
-A class that has all the required information to perform a task (make a decision) should be assigned to do it. In general, this means that all the internal logic of a functionality should be controlled by the 'nearest' class to which its functionality belongs.
+A class that has all the required information to perform a task (make a decision) should be assigned to do it. 
 # Example
 ```js
 class Product {
@@ -44,3 +44,6 @@ const total = new Purchase('All together', purchase1, product3, product4);
 console.log(total.price);
 ```
 
+## Related Patterns or Principles
+- [[arch-grasp-low-coupling|Low Coupling]]
+- [[arch-grasp-high-cohesion|High Cohesion]]

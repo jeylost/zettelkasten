@@ -3,7 +3,8 @@ tags:
   - architecture
   - grasp
 ---
-GRASP - General responsibility assignment software patterns
+GRASP stands for General responsibility assignment software patterns.
+GRASP are high level principles that help divide roles and responsibility between classes/modules
 
 > [!INFO]
 > First was proposed by Craig Larman in his book "Applying UML and Patterns"
@@ -19,11 +20,3 @@ GRASP - General responsibility assignment software patterns
 - [[arch-grasp-polymorphism|Polymorphism]]
 - [[arch-grasp-indirection|Indirection]]
 
-### Creator
-Problem: Who should create instance(who should hold and destroy link)
-
-Solution: Who contains or aggregate instances, who use them heavily, who has all the information for initialization.
-
-Why: to low coupling
-
-Examples: constructor, factory, pool
