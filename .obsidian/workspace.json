@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2043536a74beadad",
+        "id": "304d2dc1fad3c9cd",
         "type": "tabs",
         "children": [
           {
-            "id": "30b76ae928ff012b",
+            "id": "08bb0fdb9b3cb418",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea9930c905912a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws-ec2-preparations-for-ssh-recovery.md",
+                "file": "docker-image-version-should-be-specific.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 340.5
   },
   "right": {
     "id": "ebb92953fc04849d",
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws-ec2-preparations-for-ssh-recovery.md",
+                "file": "docker-image-version-should-be-specific.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aws-ec2-preparations-for-ssh-recovery.md",
+                "file": "docker-image-version-should-be-specific.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aws-ec2-preparations-for-ssh-recovery.md"
+                "file": "docker-image-version-should-be-specific.md"
               }
             }
           },
@@ -164,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30b76ae928ff012b",
+  "active": "ea9930c905912a2b",
   "lastOpenFiles": [
-    "Readme.md",
+    "docker-image-version-should-be-specific.md",
     "aws-ec2-preparations-for-ssh-recovery.md",
+    "Readme.md",
     "arch-grasp-polymorphism.md",
     "arch-grasp-low-coupling.md",
     "arch-grasp-protected-variations.md",
@@ -191,7 +201,6 @@
     "http-header-hsts.md",
     "Bibliography.md",
     "node-js-non-blocking.md",
-    "nodejs-import-internal-node-modules-arrangement.md",
     "Untitled.canvas"
   ]
 }

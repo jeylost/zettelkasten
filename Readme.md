@@ -34,7 +34,8 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 | Node.js    | nodejs, libuv, eventloop, package_manager   | nodejs-*     | JavaScript runtime for server-side apps.   |
 | OS         | os, cpu, kernel             | os-*         | Operating Systems, CPU, RAM, etc.          |
 | Architecture | architecture | arch-* | Design and structure of systems. |
-| Amazon Web Services | aws | aws-* |Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud |
+| Amazon Web Services | aws | aws-* |Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. |
+| Docker     | docker, dockerfile           | docker-*     | Docker is a platform and toolset for developing, shipping, and running applications inside containers. |
 ## Work in progress
 I'm actively working on transferring my existing knowledge to the Zettelkasten approach. I've shifted to creating notes solely within the Zettelkasten system.
 
