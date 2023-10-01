@@ -31,7 +31,7 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 | Nginx      | nginx                       | nginx-*      | Web server and reverse proxy server.       |
 | TLS        | tls                         | tls-*        | Encryption and security for data transfer. |
 | Typescript | ts                          | ts-*         | Superset of JavaScript with static typing. |
-| Node.js    | nodejs, libuv, eventloop, package_manager   | nodejs-*     | JavaScript runtime for server-side apps.   |
+| Node.js    | nodejs, libuv, eventloop, package_manager, stream   | nodejs-*     | JavaScript runtime for server-side apps.   |
 | OS         | os, cpu, kernel             | os-*         | Operating Systems, CPU, RAM, etc.          |
 | Architecture | architecture | arch-* | Design and structure of systems. |
 | Amazon Web Services | aws | aws-* |Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. |
