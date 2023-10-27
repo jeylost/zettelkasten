@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45eb65089b77b58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker-nginx-add-dynamic-modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker-nginx-add-dynamic-modules.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker-nginx-add-dynamic-modules.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker-nginx-add-dynamic-modules.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -177,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45eb65089b77b58b",
+  "active": "202aeefc5e039261",
   "lastOpenFiles": [
-    "Readme.md",
     "docker-nginx-add-dynamic-modules.md",
+    "bash-edit-and-execute-command.md",
+    "Readme.md",
     "oauth-user-consent-screen.md",
     "bash-create-tmp-folder.md",
     "os-cpu-change-context.md",
@@ -204,7 +192,6 @@
     "arch-grasp-protected-variations.md",
     "arch-grasp-polymorphism.md",
     "arch-grasp-low-coupling.md",
-    "docker-image-version-should-be-specific.md",
     "Untitled.canvas"
   ]
 }
