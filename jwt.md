@@ -1,5 +1,7 @@
-#crypto 
-
+---
+tags:
+  - crypto
+---
 `jwt` is a token that contains header, body and signature divided by dot.
 
 # Header

@@ -1,5 +1,7 @@
-#oauth 
-
+---
+tags:
+  - oauth
+---
 [[oauth-access-token]] that contains data in one or another format
 
 ## Pros

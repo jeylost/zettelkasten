@@ -1,4 +1,7 @@
-#ts 
+---
+tags:
+  - ts
+---
 # Use cases
 
 ## The validation function should check for an optional value in this case. However, since validation doesn't occur within this function, TypeScript throws an error

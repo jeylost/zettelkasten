@@ -2,6 +2,7 @@
 tags:
   - docker
   - dockerfile
+  - devops
 ---
 In software development, the best practice is to specify a fixed image version with the exact major and minor parts to ensure stability.
 # Real case scenario

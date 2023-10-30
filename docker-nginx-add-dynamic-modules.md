@@ -2,6 +2,7 @@
 tags:
   - nginx
   - docker
+  - devops
 ---
 [docker-nginx](https://github.com/nginxinc/docker-nginx/tree/master/modules) allows to add third-party modules to the official Nginx image.
 

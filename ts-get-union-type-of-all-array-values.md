@@ -1,5 +1,7 @@
-#ts 
-
+---
+tags:
+  - ts
+---
 ```typescript 
 const Letters = ["a", "b", "c", "d"] as const;
 type Letter = typeof Letters[number];

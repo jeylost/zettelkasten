@@ -1,5 +1,8 @@
-#frontend_optimization  #oauth
-
+---
+tags:
+  - frontend_optimization
+  - oauth
+---
 [[oauth-id-token]] can be requested by [[oauth-front-channel]] to get it asap to present to users
 
 >[!warning]

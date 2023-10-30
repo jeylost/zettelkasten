@@ -1,4 +1,8 @@
-#nodejs #issue 
+---
+tags:
+  - nodejs
+  - issue
+---
 Using named functions instead of anonymous once and store them in global scope resolves "callback hell".
 
 Instead of this:

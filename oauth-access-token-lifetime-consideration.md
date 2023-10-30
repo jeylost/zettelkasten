@@ -1,5 +1,7 @@
-#oauth 
-
+---
+tags:
+  - oauth
+---
 considering [[oauth-access-token]] lifetime developers should think in scope of security. What if token will be stolen? How much damage it can inflict to [[oauth-roles#Application|application]] or [[oauth-roles#User|users]]? 
 
 ## Use cases

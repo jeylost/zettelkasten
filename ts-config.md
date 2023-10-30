@@ -1,5 +1,7 @@
-#ts 
-
+---
+tags:
+  - ts
+---
 ```json
 {
 	"target": "es2022",

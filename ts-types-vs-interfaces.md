@@ -1,4 +1,7 @@
-#ts 
+---
+tags:
+  - ts
+---
 # Interface use cases
 - Declaration merging. Fits for npm packages. interfaces will allow simply add new properties to it:
 ```typescript

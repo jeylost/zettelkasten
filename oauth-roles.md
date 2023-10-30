@@ -1,5 +1,7 @@
-#oauth 
-
+---
+tags:
+  - oauth
+---
 # Application
 Client that [[oauth-roles#User|users]] use to make operations against [[oauth-roles#API Resource|API]]
 Example: Web Application, Native application(iOS, Android, WIndows, Linux, MacOS)

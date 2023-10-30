@@ -1,5 +1,7 @@
-#ts 
-
+---
+tags:
+  - ts
+---
 # Use cases
 
 ## Ensure all switch-cases  are covered

@@ -1,5 +1,8 @@
-#oauth #security 
-
+---
+tags:
+  - oauth
+  - security
+---
 [[oauth-access-token]] validation is required for [[oauth-roles#API Resource|APIs]] but doesn't make sense for [[oauth-roles#Application|applications]]  
 
 There are several ways to validate `access_token` with their pros and cons

@@ -1,7 +1,9 @@
-#oauth #security
-
+---
+tags:
+  - oauth
+  - security
+---
 [[oauth-front-channel]] is not secured way to pass sensitive data such as [[oauth-access-token]]
-
 ## Reasons
 - Browser extensions can intercept requests made in search bar
 - Requests will be seen in browser's history

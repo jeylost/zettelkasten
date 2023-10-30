@@ -2,6 +2,7 @@
 tags:
   - aws
   - issue
+  - devops
 ---
 If an EC2 instance can't be reached via SSH, there is an option to connect via the EC2 serial console to recover. If you know the password for any user, simply try to log in using the EC2 serial console. Otherwise, follow the instructions below to restore the password for the root user.
 

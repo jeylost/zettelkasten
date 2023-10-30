@@ -1,4 +1,8 @@
-#oauth #security 
+---
+tags:
+  - oauth
+  - security
+---
 Some operations can be sensitive from [[oauth-roles#API Resource|API]] perspective. As sending money from one user to another. To prevent unintentional actions application can require [[oauth-roles#User|users]] to re-login to get scope specific [[oauth-access-token|access_token]]. Such case is described here [[oauth-access-token-lifetime-consideration]]
 
 Rich Authorization Request(RAR) is a parameter that can be added to authorization request. [[oauth-roles#Authorization Server|OAuth Server]] will add this parameters as part of `access_token`. Then API validates this parameters from `access_token` and can be sure that this action is user's intention.

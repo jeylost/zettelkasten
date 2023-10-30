@@ -1,6 +1,8 @@
 ---
 tags:
   - bash
+  - devops
+  - hint
 ---
 If you're using bash, try the `edit-and-execute-command` command. By default, this is assigned to `Ctrl-x Ctrl-e` (type ctrl-x, then ctrl-e).
 

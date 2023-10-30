@@ -1,5 +1,7 @@
-#ts 
-
+---
+tags:
+  - ts
+---
 - no literal types in that expression should be widened (e.g. no going from `"hello"` to `string`)
 - object literals get `readonly` properties
 - array literals become `readonly` tuples

@@ -1,5 +1,8 @@
-#oauth #security 
-
+---
+tags:
+  - oauth
+  - security
+---
 >[!warning]
 >this type of attacks can't happen if application uses only one "hardcoded" Authorization Server
 

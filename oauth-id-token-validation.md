@@ -1,5 +1,8 @@
-#oauth #security 
-
+---
+tags:
+  - oauth
+  - security
+---
 Opposite to [[oauth-access-token]] that [[oauth-roles#Application|applications]] don't utilize for themself and use it only with [[oauth-roles#API Resource|API]] requests to obtain access. [[oauth-id-token]] often is used by applications to present users' avatars, email, names, etc
 Therefore applications should guarantee `id_token` validation
 

@@ -1,4 +1,8 @@
-#oauth #security 
+---
+tags:
+  - oauth
+  - security
+---
 Mechanism to bind [[oauth-access-token|access_token]] to [[oauth-roles#User Agent|user agent]] from which [[oauth-roles#Application|client]] issued the token.
 This mechanism resolves issue of stolen [[oauth-bearer-token|Bearer tokens]]
 

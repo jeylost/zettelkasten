@@ -1,6 +1,9 @@
-#nginx #issue 
+---
+tags:
+  - nginx
+  - issue
+---
 Nginx by default caches all DNS resolved hosts
-
 ## Use Cases
 - Nginx stands before AWS ALB and uses its private DNS name for upstreams. AWS can change the IP address for ALB at any time, and Nginx will continue to use the old IP address, which causes errors.
 

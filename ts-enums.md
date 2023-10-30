@@ -1,4 +1,7 @@
-#ts
+---
+tags:
+  - ts
+---
 Better to avoid using of enums
 
 Reasons:

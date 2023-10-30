@@ -1,5 +1,7 @@
-#ts 
-
+---
+tags:
+  - ts
+---
 ```typescript
 export type ActionModule = typeof import('./constants');
 

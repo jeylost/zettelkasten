@@ -1,4 +1,8 @@
-#oauth #security 
+---
+tags:
+  - oauth
+  - security
+---
 JWT-Secured Authorization Request(JAR) is a way to add [[oauth-non-repudiation|non-repudiation]] to authorization request. Merely a [[jwt]] signed by a client private key
 
 Using JAR for authorization request [[oauth-roles#Application|client]] puts all parameters inside jwt, signs it and pass jwt inside `request` query parameter or as `request_uri`(URL from where [[oauth-roles|OAuth Server]] can fetch this jwt)

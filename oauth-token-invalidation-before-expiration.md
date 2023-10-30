@@ -1,5 +1,8 @@
-#oauth #security 
-
+---
+tags:
+  - oauth
+  - security
+---
 [[oauth-roles#API Resource|APIs]] should always consider [[oauth-access-token|access-token's]] possibility to be invalid before expiration time
 
 ## Use cases

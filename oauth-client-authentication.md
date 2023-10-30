@@ -1,3 +1,8 @@
+---
+tags:
+  - oauth
+---
+
 [[oauth-roles#Application|Clients]] use `client_secret`(just a string) to authenticate against [[oauth-roles#Authorization Server|Authorization Server]] 
 It's fine as far as connection is protected by [[tls|TLS]]. 
 

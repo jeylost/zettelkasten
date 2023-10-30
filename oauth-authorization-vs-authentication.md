@@ -1,5 +1,7 @@
-#oauth 
-
+---
+tags:
+  - oauth
+---
 OAuth issues [[oauth-access-token]], OpenID in his turn issues [[oauth-id-token]]
 
 OpenID is extension of OAuth and shares a lot in common

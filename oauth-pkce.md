@@ -1,7 +1,9 @@
+---
+tags:
+  - oauth
+  - security
+---
 # Proof Key for Code Exchange
-
-#oauth #security 
-
 As we can't trust [[oauth-front-channel-insecure|front channel]] to deliver sensitive data as [[oauth-access-token]]. PKCE was developed to make [[oauth-roles|users]] authorization flow more secure.
 
 PKCE is originally was developed for native apps because they don’t have `client_secret`. But now it’s recommended flow for all apps even though they have `client_secret`

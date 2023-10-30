@@ -1,5 +1,7 @@
-#oauth 
-
+---
+tags:
+  - oauth
+---
 just strings that mean nothing to [[oauth-roles#Authorization Server|oAuth server]] itself
 
 It’s up to [[oauth-roles#API Resource|API]]  to validate scopes and grant access granularly

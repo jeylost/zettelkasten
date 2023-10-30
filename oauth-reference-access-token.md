@@ -1,5 +1,7 @@
-#oauth 
-
+---
+tags:
+  - oauth
+---
 [[oauth-access-token]] that doesn’t contain any data inside, just a random string
 
 ## Pros

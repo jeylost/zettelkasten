@@ -1,5 +1,9 @@
-#security #http #header
-
+---
+tags:
+  - security
+  - http
+  - header
+---
 # Strict-Transport-Security
 [[http-header|HTTP Header]]  inform browser that this site is intended to be used under https
 

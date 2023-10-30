@@ -1,5 +1,7 @@
-#oauth 
-
+---
+tags:
+  - oauth
+---
 Non-repudiation, in common sense, refers to the protection against individuals falsely denying their involvement in a particular action.
 
 Example:
