@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d3b207b64a0038b",
+        "id": "d2b94d7d303ce9a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b6d3d0d07d7c2ebd",
+            "id": "d764a68bfe9c4407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,14 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6d3d0d07d7c2ebd",
+  "active": "d764a68bfe9c4407",
   "lastOpenFiles": [
-    "bash-create-tmp-folder.md",
+    "test.md",
     "virtualbox-usb-is-busy-fix.md",
     "ts-types-vs-interfaces.md",
-    "Untitled.md",
     "ts-turn-modules-into-types.md",
-    "ts-structural-type-system.md",
     "ts-nominal-type-system.md",
     "ts-never.md",
     "ts-get-union-type-of-all-array-values.md",
@@ -180,18 +170,20 @@
     "ts-const-assertion.md",
     "ts-config.md",
     "ts-assertion-function.md",
-    "tls-termination.md",
     "tls-mutual-tls.md",
-    "tls.md",
-    "The Nuts and Bolts of OAuth 2.0.md",
-    "Readme.md",
-    "os-cpu-change-context.md",
-    "oauth-user-consent-screen.md",
-    "oauth-token-invalidation-before-expiration.md",
-    "oauth-structured-access-token.md",
-    "oauth-show-user-info-asap.md",
-    "oauth-secure-access-token.md",
-    "oauth-scopes.md",
+    "nodejs-why-nodejs.md",
+    "nodejs-top-level-await.md",
+    "nodejs-stream-readable-read.md",
+    "nodejs-stream.md",
+    "nodejs-npx-equivalent-in-other-package-managers.md",
+    "nodejs-libuv-thread-pool.md",
+    "nodejs-import-internal-node-modules-arrangement.md",
+    "nodejs-code-execution-isolation.md",
+    "nodejs-callback-hell-does-not-exist.md",
+    "nginx-disable-dns-cache.md",
+    "mobile-open-browser-in-app.md",
+    "node-js-non-blocking.md",
+    "http-request.md",
     "Untitled.canvas"
   ]
 }
