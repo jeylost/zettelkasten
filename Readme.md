@@ -38,10 +38,11 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 | Node.js    | nodejs, libuv, eventloop, package_manager, stream   | nodejs-*     | JavaScript runtime for server-side apps.   |
 | OS         | os, cpu, kernel             | os-*         | Operating Systems, CPU, RAM, etc.          |
 | Architecture | architecture | arch-* | Design and structure of systems. |
-| Amazon Web Services | aws | aws-* |Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. |
+| Amazon Web Services | aws, ec2 | aws-* |Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. |
 | Docker     | docker, dockerfile           | docker-*     | Docker is a platform and toolset for developing, shipping, and running applications inside containers. |
 | Bash | bash | bash-* | A Bash script is a text file containing a series of commands written in the Bash (Bourne-Again Shell) scripting language.|
 | CI/CD | ci-cd | ci-cd-* |  Continuous Integration and Continuous Deployment. |
+| Network | network | network-* | A network is a interconnected system of computers or devices that communicate with each other to share information and resources. |
 ## Work in progress
 I'm actively working on transferring my existing knowledge to the Zettelkasten approach. I've shifted to creating notes solely within the Zettelkasten system.
 

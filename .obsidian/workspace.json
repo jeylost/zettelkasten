@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b94d7d303ce9a9",
+        "id": "0c252741d0927e51",
         "type": "tabs",
         "children": [
           {
-            "id": "d764a68bfe9c4407",
+            "id": "f561989ae0ad21e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "aws-ec2-burstable-type-considerations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "composit",
+                "query": "aws-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aws-ec2-burstable-type-considerations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "aws-ec2-burstable-type-considerations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "aws-ec2-burstable-type-considerations.md"
+              }
             }
           },
           {
@@ -156,8 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d764a68bfe9c4407",
+  "active": "f561989ae0ad21e3",
   "lastOpenFiles": [
+    "aws-ec2-burstable-type-considerations.md",
+    "aws-ec2-preparations-for-ssh-recovery.md",
+    "arch-solid-dependency-inversion-principle.md",
     "test.md",
     "virtualbox-usb-is-busy-fix.md",
     "ts-types-vs-interfaces.md",
@@ -181,9 +193,6 @@
     "nodejs-code-execution-isolation.md",
     "nodejs-callback-hell-does-not-exist.md",
     "nginx-disable-dns-cache.md",
-    "mobile-open-browser-in-app.md",
-    "node-js-non-blocking.md",
-    "http-request.md",
     "Untitled.canvas"
   ]
 }
