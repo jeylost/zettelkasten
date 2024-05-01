@@ -18,31 +18,32 @@ If you are interested in learning more about the zettelkasten method and how to 
 In my system, I name my notes with a topic prefix, and then add tags to each note. The tags can be specific to the topic of the note, such as #docker, or they can be more general, such as #issue. I find this system to be helpful for quickly finding the information I need.
 
 ## General tags
-| Tag        | Description                                                                                                   |
-|------------|---------------------------------------------------------------|
-| #issue     | A note that explains how to resolve or avoid an issue, or reveals when it occurs. |
-| #source    | Books, YouTube videos, articles, and courses I gained knowledge from. |
-| #tbd       | Knowledge that doesn't contain an explanation due to simplicity or will be defined later. |
-| #devops    | DevOps-specific topic. |
-| #hint      | Tips and advice. |
-| #security  | All about enhancing security measures and protecting data and systems. |
+| Tag       | Description                                                                               |
+| --------- | ----------------------------------------------------------------------------------------- |
+| #issue    | A note that explains how to resolve or avoid an issue, or reveals when it occurs.         |
+| #source   | Books, YouTube videos, articles, and courses I gained knowledge from.                     |
+| #tbd      | Knowledge that doesn't contain an explanation due to simplicity or will be defined later. |
+| #devops   | DevOps-specific topic.                                                                    |
+| #hint     | Tips and advice.                                                                          |
+| #security | All about enhancing security measures and protecting data and systems.                    |
 
 ## Topics
-| Topic      | Tags                        | Filenames    | Description                                |
-|------------|-----------------------------|--------------|--------------------------------------------|
-| OAuth      | oauth                       | oauth-*      | Secure authorization protocol.             |
-| Http       | http                        | http-*       | Protocol for data communication on the web.|
-| Nginx      | nginx                       | nginx-*      | Web server and reverse proxy server.       |
-| TLS        | tls                         | tls-*        | Encryption and security for data transfer. |
-| Typescript | ts                          | ts-*         | Superset of JavaScript with static typing. |
-| Node.js    | nodejs, libuv, eventloop, package_manager, stream   | nodejs-*     | JavaScript runtime for server-side apps.   |
-| OS         | os, cpu, kernel             | os-*         | Operating Systems, CPU, RAM, etc.          |
-| Architecture | architecture | arch-* | Design and structure of systems. |
-| Amazon Web Services | aws, ec2 | aws-* |Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud. |
-| Docker     | docker, dockerfile           | docker-*     | Docker is a platform and toolset for developing, shipping, and running applications inside containers. |
-| Bash | bash | bash-* | A Bash script is a text file containing a series of commands written in the Bash (Bourne-Again Shell) scripting language.|
-| CI/CD | ci-cd | ci-cd-* |  Continuous Integration and Continuous Deployment. |
-| Network | network | network-* | A network is a interconnected system of computers or devices that communicate with each other to share information and resources. |
+| Topic               | Tags                                              | Filenames | Description                                                                                                                       |
+| ------------------- | ------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| OAuth               | oauth                                             | oauth-*   | Secure authorization protocol.                                                                                                    |
+| Http                | http                                              | http-*    | Protocol for data communication on the web.                                                                                       |
+| Nginx               | nginx                                             | nginx-*   | Web server and reverse proxy server.                                                                                              |
+| TLS                 | tls                                               | tls-*     | Encryption and security for data transfer.                                                                                        |
+| Typescript          | ts                                                | ts-*      | Superset of JavaScript with static typing.                                                                                        |
+| Node.js             | nodejs, libuv, eventloop, package_manager, stream | nodejs-*  | JavaScript runtime for server-side apps.                                                                                          |
+| OS                  | os, cpu, kernel                                   | os-*      | Operating Systems, CPU, RAM, etc.                                                                                                 |
+| Architecture        | architecture                                      | arch-*    | Design and structure of systems.                                                                                                  |
+| Amazon Web Services | aws, ec2                                          | aws-*     | Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud.                                            |
+| Docker              | docker, dockerfile                                | docker-*  | Docker is a platform and toolset for developing, shipping, and running applications inside containers.                            |
+| Bash                | bash                                              | bash-*    | A Bash script is a text file containing a series of commands written in the Bash (Bourne-Again Shell) scripting language.         |
+| CI/CD               | ci-cd                                             | ci-cd-*   | Continuous Integration and Continuous Deployment.                                                                                 |
+| Network             | network                                           | network-* | A network is a interconnected system of computers or devices that communicate with each other to share information and resources. |
+| Windows             | windows                                           | windows-* | Windows as development environment.                                                                                               |
 ## Work in progress
 I'm actively working on transferring my existing knowledge to the Zettelkasten approach. I've shifted to creating notes solely within the Zettelkasten system.
 
