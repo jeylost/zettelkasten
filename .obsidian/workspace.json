@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim-hotkeys.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim-hotkeys.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim-hotkeys.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim-hotkeys.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -169,10 +169,21 @@
   },
   "active": "aca9fa474f9fd2a0",
   "lastOpenFiles": [
+    "nodejs-stream.md",
+    "Readme.md",
+    "nodejs-node_env-use-cases.md",
+    "nodejs-npx-equivalent-in-other-package-managers.md",
+    "nodejs-non-blocking.md",
+    "nodejs-why-nodejs.md",
+    "nodejs-top-level-await.md",
+    "nodejs-stream-readable-read.md",
+    "nodejs-libuv-thread-pool.md",
+    "nodejs-import-internal-node-modules-arrangement.md",
+    "nodejs-code-execution-isolation.md",
+    "nodejs-callback-hell-does-not-exist.md",
+    "vim-hotkeys.md",
     "Excalidraw/Drawing 2024-05-03 18.00.15.excalidraw.md",
     "Excalidraw",
-    "Readme.md",
-    "vim-hotkeys.md",
     "Excalidraw/Drawing 2024-05-03 17.58.02.excalidraw.md",
     "windows-hotkeys-dont-work.md",
     "virtualbox-usb-is-busy-fix.md",
@@ -180,25 +191,14 @@
     "ts-enums.md",
     "tls-mutual-tls.md",
     "Bibliography.md",
-    "nodejs-top-level-await.md",
     "oauth-jarm.md",
     "Untitled",
     "nginx-js-module.md",
-    "nodejs-code-execution-isolation.md",
     "attachments/nginx_njs_vm_perf.png",
     "attachments",
     "nginx-disable-dns-cache.md",
     "nginx-tls-configuration-generator.md",
     "mobile-open-browser-in-app.md",
-    "aws-ec2-burstable-type-considerations.md",
-    "aws-ec2-preparations-for-ssh-recovery.md",
-    "arch-solid-dependency-inversion-principle.md",
-    "test.md",
-    "ts-types-vs-interfaces.md",
-    "ts-turn-modules-into-types.md",
-    "ts-never.md",
-    "ts-get-union-type-of-all-array-values.md",
-    "ts-dot-ts-files.md",
     "Untitled.canvas"
   ]
 }
