@@ -44,6 +44,7 @@ In my system, I name my notes with a topic prefix, and then add tags to each not
 | CI/CD               | ci-cd                                                          | ci-cd-*   | Continuous Integration and Continuous Deployment.                                                                                 |
 | Network             | network                                                        | network-* | A network is a interconnected system of computers or devices that communicate with each other to share information and resources. |
 | Windows             | windows                                                        | windows-* | Windows as development environment.                                                                                               |
+| CSS                 | css                                                            | css-*      | Styling language used for defining the layout and design of web pages.                                                            |
 ## Work in progress
 I'm actively working on transferring my existing knowledge to the Zettelkasten approach. I've shifted to creating notes solely within the Zettelkasten system.
 
